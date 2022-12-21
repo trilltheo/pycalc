@@ -1,2 +1,2 @@
 # pycalc
-simple python cal
+simple python calс
